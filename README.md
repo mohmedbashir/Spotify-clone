@@ -36,6 +36,5 @@ Is a mobile application developed using Flutter with **Clean-Architecture**, des
 * **Flutter Bloc**: To manage the application's state.
 * **Hydrated Bloc**: To enable theme switching in the app.
 * **Get It**: For dependency injection..
-* **GetX**:
-* For navigation within the app.
+* **GetX**: For navigation within the app.
 * **Just Audio**: To handle audio playback and loading.
