@@ -1,7 +1,7 @@
 ![spotify (2)](https://github.com/user-attachments/assets/cbd6e2c1-7681-461b-a6e4-069819578748)
 # Spotify - clone
 
-Is a mobile application developed using Flutter with **Clean-Architecture**, designed to replicate the core functionalities and user experience of the popular music streaming service, Spotify. This clone allows users to browse and stream music from a library of tracks, as well as manage playlists and discover new music.
+Is a mobile application developed using Flutter and follows the **Clean-Architecture** pattern, designed to replicate the core functionalities and user experience of the popular music streaming service, Spotify. This clone allows users to browse and stream music from a library of tracks, as well as manage playlists and discover new music.
 
 ## Key Features
 
@@ -29,7 +29,7 @@ Is a mobile application developed using Flutter with **Clean-Architecture**, des
   <img src="https://github.com/user-attachments/assets/534f760d-3bbf-435e-bd90-8d6fa475aafe" width="30%" />
 </p>
 
-## Dependencies Used
+## Used Dependencies 
 * **Firebase Auth**: To handle authentication within the project.
 * **Firebase storage**: To store media files on the server.
 * **Firebase Firestore**: To set up a database for the application.
